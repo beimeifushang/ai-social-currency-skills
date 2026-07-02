@@ -1,0 +1,5 @@
+- SaaS products keep adding chat and agent surfaces on top of existing dashboards.
+- A workflow agent can call tools, update records, and summarize state without forcing the user through every screen.
+- Dashboard-heavy software still matters for auditability, exceptions, and admin control.
+- If agents own the front door, dashboards may become back-office infrastructure.
+- Source lead: https://github.com/topics/ai-agents

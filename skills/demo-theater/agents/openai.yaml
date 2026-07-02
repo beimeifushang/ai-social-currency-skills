@@ -1,0 +1,4 @@
+interface:
+  display_name: "Demo Theater"
+  short_description: "Convert AI ideas into proof-led demos"
+  default_prompt: "Use $demo-theater to design a vertical-video demo from this AI concept."

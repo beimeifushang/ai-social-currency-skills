@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trend Compounder"
+  short_description: "Turn AI signals into sharp creator angles"
+  default_prompt: "Use $trend-compounder to turn these AI links and notes into a video thesis map."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Arena"
+  short_description: "Stress-test tech takes with persona debates"
+  default_prompt: "Use $agent-arena to run a multi-agent debate around this AI thesis."
