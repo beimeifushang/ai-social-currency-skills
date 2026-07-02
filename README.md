@@ -1,18 +1,21 @@
 # AI Social Currency Skills
 
-Three Codex skills and three agent directions for AI tech creators who want ideas that feel early, visual, and defensible.
+Six Codex skills and six agent directions for AI tech creators who want ideas that feel early, visual, defensible, and product-aware.
 
 This repo is built for creators publishing on WeChat Channels, X, Bilibili, YouTube Shorts, TikTok, or any feed where "interesting but accurate" is the real currency.
 
-中文一句话：这是一套给 AI 科技创作者用的“观点操作系统”——先发现被低估的信号，再把观点做成可见的 demo，最后用多代理辩论把表达打磨到既性感又能防守。
+中文一句话：这是一套给 AI 科技创作者用的“观点与产品操作系统”——先发现被低估的信号，再把观点做成可见 demo，用多代理辩论打磨表达，然后判断什么是真 AI-native，想象下一代界面，并把 prompt 产品化。
 
-## The Three Directions
+## The Six Directions
 
 | Skill | Agent direction | What it does | Social currency |
 |---|---|---|---|
 | `trend-compounder` | Alpha Signal Scout | Turns AI papers, launches, repos, and messy notes into source-backed creator theses | Publish before consensus, without sounding reckless |
 | `demo-theater` | Proof Director | Turns abstract AI ideas into visible proof demos, storyboards, and shot lists | Show the thing happening, not another talking-head take |
 | `agent-arena` | Synthetic Panel Host | Runs persona debates to pressure-test tech theses and sharpen scripts | Borrow the energy of a panel, keep the precision of a memo |
+| `future-ui-lab` | Interface Futurist | Turns AI workflows into post-chat interface concepts and demo plans | Own the "what comes after chat" conversation |
+| `ai-native-roast` | Taste Critic | Scores whether AI products are truly native or just wrapper theater | Build public taste through sharp teardowns |
+| `prompt-to-product` | One-Person Studio | Turns prompts and workflows into MVP briefs and launch tests | Show you can turn ideas into products |
 
 ## Install
 
@@ -32,12 +35,16 @@ Then start a new Codex thread and invoke a skill explicitly:
 Use $trend-compounder to turn these links into a WeChat Channels video thesis.
 Use $demo-theater to design a 60-second proof demo for this AI product idea.
 Use $agent-arena to pressure-test this take and make it more publishable.
+Use $future-ui-lab to turn this workflow into a post-chat AI interface concept.
+Use $ai-native-roast to score this AI product and make a spicy teardown.
+Use $prompt-to-product to turn this prompt into a sellable MVP plan.
 ```
 
 ## Why These Are "Sexy"
 
 - They are not generic prompt packs; they encode a creator operating system.
 - They turn AI news into thesis, thesis into proof, and proof into defensible public taste.
+- They turn product taste into a repeatable critique and creation loop.
 - They make the creator look early without losing epistemic hygiene.
 - They produce artifacts people can quote, remix, and argue with.
 
@@ -48,10 +55,16 @@ skills/
   trend-compounder/
   demo-theater/
   agent-arena/
+  future-ui-lab/
+  ai-native-roast/
+  prompt-to-product/
 agents/
   alpha-signal-scout.md
   proof-director.md
   synthetic-panel-host.md
+  interface-futurist.md
+  taste-critic.md
+  one-person-studio.md
 ```
 
 ## Quick Demo
@@ -68,6 +81,18 @@ python3 skills/demo-theater/scripts/storyboard.py \
 python3 skills/agent-arena/scripts/arena_pack.py \
   --thesis "AI agents will make SaaS dashboards disappear" \
   --audience "AI founders"
+
+python3 skills/future-ui-lab/scripts/interface_canvas.py \
+  --workflow "an AI agent monitors creator sponsorship deals and drafts negotiation moves" \
+  --audience "AI creators"
+
+python3 skills/ai-native-roast/scripts/roast_score.py \
+  --product "CRM with chatbot that writes follow-up emails" \
+  --features "chat, email drafts, contact search"
+
+python3 skills/prompt-to-product/scripts/product_brief.py \
+  --prompt "Summarize messy brand emails into creator deal terms and negotiation risks" \
+  --audience "MCN operators"
 ```
 
 ## Publishing Philosophy
@@ -77,5 +102,8 @@ The strongest AI creator account is not the loudest one. It is the one that can 
 1. Notice the non-obvious signal.
 2. Prove the idea on screen.
 3. Defend the take when smart people push back.
+4. Judge what is actually AI-native.
+5. Imagine the next interface.
+6. Productize the workflow.
 
 That is what these skills are designed to operationalize.

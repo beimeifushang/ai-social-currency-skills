@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Native Roast"
+  short_description: "Judge whether AI products are truly native"
+  default_prompt: "Use $ai-native-roast to critique this AI product and find the real AI-native score."

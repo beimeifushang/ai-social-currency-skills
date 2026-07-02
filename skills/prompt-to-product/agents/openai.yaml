@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt to Product"
+  short_description: "Turn prompts into productized MVP briefs"
+  default_prompt: "Use $prompt-to-product to turn this prompt or workflow into a product MVP plan."

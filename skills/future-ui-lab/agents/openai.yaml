@@ -1,0 +1,4 @@
+interface:
+  display_name: "Future UI Lab"
+  short_description: "Prototype post-chat AI interface concepts"
+  default_prompt: "Use $future-ui-lab to turn this AI workflow into a future interface concept and demo plan."
