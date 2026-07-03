@@ -26,7 +26,7 @@ description: Diagnose Chinese articles for AI-like writing patterns, weak origin
 
 ## 工作流程
 
-### 1. 先做四维诊断
+### 1. 先做多角度诊断
 
 从四个维度判断原文：
 

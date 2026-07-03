@@ -1,6 +1,6 @@
 # AI Social Currency Skills
 
-Ten Codex and RedSkill-ready skills for AI tech creators and everyday users who want ideas that feel early, visual, useful, and socially alive.
+A growing set of Codex and RedSkill-ready skills for AI tech creators and everyday users who want ideas that feel early, visual, useful, and socially alive.
 
 This repo is built for creators publishing on WeChat Channels, Xiaohongshu, X, Bilibili, YouTube Shorts, TikTok, or any feed where "interesting but accurate" is the real currency.
 
@@ -25,6 +25,36 @@ This repo is built for creators publishing on WeChat Channels, Xiaohongshu, X, B
 | `zhongcao-qingxingji` | 种草清醒机 | Helps users cool down before impulse purchases by separating need from fantasy | Makes shopping anxiety inspectable without killing the fun |
 | `yinyang-huiji-ji` | 阴阳怪气回击机 | Generates snarky but bounded comeback options and flags lines that may backfire | Lets people feel witty without crossing into abuse |
 | `yuanchuang-biaoda-zhijianguan` | 原创表达质检官 | Diagnoses AI-like writing patterns, weak originality, thin evidence, and low reader trust | Turns generic drafts into more specific, credible creator writing |
+
+## Original RedSkill Suite
+
+| Skill | Chinese title | What it does |
+|---|---|---|
+| `image-route-director` | 出图路线总控 | Chooses the right path for covers, posters, concept visuals, infographics, and prompt refinement |
+| `partner-logo-lineup` | 品牌背书陈列台 | Organizes partner and customer logos into a clean, authorized display plan |
+| `form-draft-coach` | 申请材料填空师 | Turns form fields into accurate, low-risk draft answers |
+| `web-form-answer-drafter` | 在线申请答题器 | Drafts web form answers from user-provided facts while protecting sensitive information |
+| `markdown-pdf-publisher` | 长文成册排版师 | Plans Markdown content for polished PDF-style publication |
+| `word-doc-polisher` | 交付文档整理师 | Turns drafts into clean client-ready or teacher-ready document structures |
+| `slide-deck-director` | 汇报分镜导演 | Converts raw material into presentation page flow, titles, visuals, and speaker notes |
+| `pdf-long-image-planner` | 资料长图重排师 | Reworks PDF-like material into mobile-readable long-image publishing plans |
+| `png-vector-advisor` | 图形清晰度修复师 | Advises when and how to clean up simple raster graphics for sharper reuse |
+| `proposal-rehearsal-room` | 客户方案沙盘 | Turns project requirements into proposal scope, deliverables, timeline, and risk boundaries |
+| `open-source-solution-architect` | 技术落地路线师 | Creates open-source-first implementation plans, architecture options, and MVP validation routes |
+| `contract-risk-triage` | 协议风险扫雷员 | Screens agreements for payment, delivery, breach, IP, confidentiality, and exit risks |
+| `transaction-closure-reviewer` | 交易闭环审查员 | Reviews important agreements through party, clause, workflow, and risk lenses |
+| `expense-report-organizer` | 票据归档助手 | Turns invoices and expense notes into categorized reimbursement drafts and missing-field checks |
+| `event-poster-art-director` | 活动视觉提案官 | Creates poster briefs, hierarchy, copy, and visual direction for events |
+| `visual-style-decomposer` | 参考图灵感转译师 | Extracts reusable visual principles from references without copying the original |
+| `brand-asset-calibrator` | 品牌素材校准台 | Plans logo sourcing, quality scoring, naming, archiving, and authorization checks |
+| `document-illustration-planner` | 文章视觉节奏师 | Plans where long-form content needs images, captions, and visual proof |
+| `evidence-chain-researcher` | 可信研究搭建师 | Breaks research topics into claims, evidence, counterpoints, and report structure |
+| `professional-book-workbench` | 知识小书孵化器 | Turns expertise into a compact book project with audience promise, chapters, and schedule |
+| `wechat-article-archive-cleaner` | 文章资产归档师 | Cleans legally provided article text into searchable knowledge assets and reuse cards |
+| `guest-event-curator` | 嘉宾内容策展台 | Turns guest background material into an event theme, rundown, questions, and promo copy |
+| `thesis-argument-polisher` | 论文论证打磨师 | Reviews academic drafts for language, structure, argument quality, and originality expression |
+| `bilingual-expression-calibrator` | 双语表达校准师 | Reviews Chinese-English translation across accuracy, tone, terms, fluency, culture, and format |
+| `style-profile-rewriter` | 个人语气校准器 | Extracts an authorized voice profile and rewrites drafts without impersonating others |
 
 ## Install
 
