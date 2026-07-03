@@ -1,6 +1,6 @@
 # AI Social Currency Skills
 
-Nine Codex and RedSkill-ready skills for AI tech creators and everyday users who want ideas that feel early, visual, useful, and socially alive.
+Ten Codex and RedSkill-ready skills for AI tech creators and everyday users who want ideas that feel early, visual, useful, and socially alive.
 
 This repo is built for creators publishing on WeChat Channels, Xiaohongshu, X, Bilibili, YouTube Shorts, TikTok, or any feed where "interesting but accurate" is the real currency.
 
@@ -24,6 +24,7 @@ This repo is built for creators publishing on WeChat Channels, Xiaohongshu, X, B
 | `timian-huiji-zuiti` | 体面回击嘴替 | Turns awkward or boundary-testing messages into calm, sendable Chinese replies | Gives people wording for high-friction social moments |
 | `zhongcao-qingxingji` | 种草清醒机 | Helps users cool down before impulse purchases by separating need from fantasy | Makes shopping anxiety inspectable without killing the fun |
 | `yinyang-huiji-ji` | 阴阳怪气回击机 | Generates snarky but bounded comeback options and flags lines that may backfire | Lets people feel witty without crossing into abuse |
+| `yuanchuang-biaoda-zhijianguan` | 原创表达质检官 | Diagnoses AI-like writing patterns, weak originality, thin evidence, and low reader trust | Turns generic drafts into more specific, credible creator writing |
 
 ## Install
 
@@ -49,6 +50,7 @@ Use $prompt-to-product to turn this prompt into a sellable MVP plan.
 Use $timian-huiji-zuiti to reply to this awkward workplace message without sounding weak.
 Use $zhongcao-qingxingji to decide whether I should buy this thing I just got influenced to buy.
 Use $yinyang-huiji-ji to make a bounded sarcastic comeback for this passive-aggressive comment.
+Use $yuanchuang-biaoda-zhijianguan to make this Xiaohongshu draft feel more original and less generic.
 ```
 
 ## Why These Are "Sexy"
@@ -72,6 +74,7 @@ skills/
   timian-huiji-zuiti/
   zhongcao-qingxingji/
   yinyang-huiji-ji/
+  yuanchuang-biaoda-zhijianguan/
 agents/
   alpha-signal-scout.md
   proof-director.md
@@ -120,5 +123,6 @@ The strongest AI creator account is not the loudest one. It is the one that can 
 5. Imagine the next interface.
 6. Productize the workflow.
 7. Turn everyday friction into useful AI-native utilities.
+8. Raise the trust and originality of AI-assisted writing.
 
 That is what these skills are designed to operationalize.
