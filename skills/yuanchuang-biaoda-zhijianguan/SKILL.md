@@ -28,7 +28,7 @@ description: Diagnose Chinese articles for AI-like writing patterns, weak origin
 
 ### 1. 先做多角度诊断
 
-从四个维度判断原文：
+从几个关键角度判断原文：
 
 - AI 腔风险：模板开头、过渡词堆砌、句式过齐、段落等长、总结腔、抽象大词。
 - 原创密度：是否有作者自己的观察、经历、判断、失败、代价、反常识点。
